@@ -16,6 +16,5 @@ This project showcases a detailed mechanical animation of a **hexagonal screw an
 - Applying Assembly Constraints (Joints)
 - Motion Study and Animation Generation
 - Technical CAD Visualization
-- ****
 
 ***
