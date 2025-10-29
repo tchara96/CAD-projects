@@ -45,7 +45,7 @@ The following properties were calculated based on a volume assignment using a no
 | **CAD Source File (F3D)** | The native Autodesk Fusion 360 archive file. | **[03_F1_Rear_Wing_Design/f1 wing 2023 style.f3d]** |
 | **Technical Drawing** | 2D drawing for dimensional reference and manufacturing communication. | **[03_F1_Rear_Wing_Design/f1 wing 2023 style Drawing.png]** |
 | **Structural Renders** | Various perspective views of the final wing assembly. | [03_F1_Rear_Wing_Design/1.png], [03_F1_Rear_Wing_Design/2.png], [03_F1_Rear_Wing_Design/3.png], [03_F1_Rear_Wing_Design/4.png],  [03_F1_Rear_Wing_Design/5.png], [03_F1_Rear_Wing_Design/6.png], [03_F1_Rear_Wing_Design/7.png] |
-| **Process Video** | A short video showcasing the lofting and assembly process. | [03_F1_Rear_Wing_Design/f1 wing process.mp4] |
+| **Process Video** | A short video showcasing the lofting and assembly process. | [(https://github.com/tchara96/CAD-projects/blob/5882ee9e33de872686b79d826e770a97c13601d1/03_F1_Rear_Wing_Design/f1%20wing%20process.mp4)] |
 
 ## Key Skills Demonstrated
 
