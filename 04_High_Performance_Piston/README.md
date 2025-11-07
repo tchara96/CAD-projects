@@ -21,8 +21,8 @@ This is a detailed CAD model of a **High-Performance Piston Head**, specifically
 
 | File | Description | Link |
 | :--- | :--- | :--- |
-| **Main Render** (`Piston.jpg`) | Primary view of the complete Piston Head component. | (https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston_orthographic.jpg) |
-| **Drawing** (`Drawing.jpg`) | 2D dimensional drawing with orthographic views and manufacturing specifications. | [Link to Drawing.jpg] |
+| **Main Render** | Primary view of the complete Piston Head component. | (https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston_orthographic.jpg) |
+| **Drawing** | 2D dimensional drawing with orthographic views and manufacturing specifications. | https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Drawing.jpg |
 | **Detailed Renders** | Views showing the top (crown), bottom (pin boss), and sides. | [Link to Piston top.jpg], [Link to Piston bottom.jpg], [Link to Piston Side.jpg], [Link to Piston Side 2.jpg] |
 | **CAD Source File** | Placeholder for the primary CAD file (e.g., `.step`, `.ipt`). | [Link to CAD File] |
 
