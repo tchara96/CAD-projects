@@ -29,7 +29,7 @@ The model incorporates specific material assignments for structural elements:
 | :--- | :--- | :--- |
 | **CAD Source File (.ipt)** | The native Autodesk Fusion 360 part file. |https://github.com/tchara96/CAD-projects/blob/main/05_Airbus_A380_800/Airbus%20A380%20800%20v61.ipt |
 | **Process Video**  | Short video showcasing the construction and assembly process. | https://github.com/tchara96/CAD-projects/blob/main/05_Airbus_A380_800/Airbus%20A380%20800%20PROCESS%20VIDEO.mp4 |
-| **Material Specifications** | Screenshots confirming material properties applied to major components. | [Link to Fuselage Materials.jpg], [Link to Stabilizers Materials.jpg] |
+| **Material Specifications** | Screenshots confirming material properties applied to major components. | https://github.com/tchara96/CAD-projects/blob/main/05_Airbus_A380_800/Fuselage%20Materials.jpg, https://github.com/tchara96/CAD-projects/blob/main/05_Airbus_A380_800/Stabilizers%20Materials.jpg |
 | **Renders** | Various perspective views of the completed aircraft model. | [Link to Rear.jpg], [Link to Side 2.jpg], [Link to Top 2.jpg], [Link to 88f8ec45c207112b6f5d21a8c7fcfc05.jpg] |
 
 ## Key Skills Demonstrated
