@@ -32,6 +32,6 @@ This is a detailed CAD model of a **High-Performance Piston Head**, specifically
 * **Detailed Feature Modeling:** Accurate representation of functional elements (ring grooves, valve recesses, oil drains).
 * **Technical Drafting:** Creating professional **2D drawings**, including dimensioning and tolerances. <br><br>
 
-## Theory - Piston Parts
+## Theory - Piston Parts Diagram
 1. https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston%20parts.jpg <br>
 2. https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston%20head%20diagram.jpg
