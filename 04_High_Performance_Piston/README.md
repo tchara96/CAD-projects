@@ -33,5 +33,5 @@ This is a detailed CAD model of a **High-Performance Piston Head**, specifically
 * **Technical Drafting:** Creating professional **2D drawings**, including dimensioning and tolerances. <br><br>
 
 ## Theory - Piston Parts
-![Alt Text]((https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston%20parts.jpg))
+(https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston%20parts.jpg)
 
