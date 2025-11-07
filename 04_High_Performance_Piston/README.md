@@ -26,11 +26,16 @@ This is a detailed CAD model of a **High-Performance Piston Head**, specifically
 | **Detailed Renders** | Views showing the top (crown), bottom (pin boss), and sides. |1.  Top view: https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston%20top.jpg <br>  2.  Bottom view: https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston%20bottom.jpg <br>  3.  Side views: https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston%20Side.jpg <br>  4.  Side view 2: https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston%20Side%202.jpg | 
 | **CAD Source File** | Placeholder for the primary CAD file. | https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston%20v1.f3d |
 
+| **Process Video** | A short video showcasing the lofting and assembly process. | https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston%20Process.mp4 |
+
 ## Key Skills Demonstrated
 
 * **Mechanical Component Design:** Precision modeling of critical, high-tolerance engine components.
 * **Detailed Feature Modeling:** Accurate representation of functional elements (ring grooves, valve recesses, oil drains).
 * **Technical Drafting:** Creating professional **2D drawings**, including dimensioning and tolerances. <br><br>
+
+
+
 
 ## Theory - Piston Parts Diagram
 1. https://github.com/tchara96/CAD-projects/blob/main/04_High_Performance_Piston/Piston%20parts.jpg <br>
